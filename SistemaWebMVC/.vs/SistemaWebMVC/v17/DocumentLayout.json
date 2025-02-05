@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04BDA4CD-D73D-4070-B4D1-1F0DE67027B3}|CapaNegocio\\CapaNegocio.csproj|d:\\programacion\\c#\\sistema web carrito\\sistemawebmvc\\capanegocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BDA4CD-D73D-4070-B4D1-1F0DE67027B3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EA78E1-37B8-4980-8C40-BF8250BAC44F}|CapaDatos\\CapaDatos.csproj|D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\capadatos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EA78E1-37B8-4980-8C40-BF8250BAC44F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6B333C-A6DA-46A2-A0CD-2A9ED44D9829}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\capapresentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A6B333C-A6DA-46A2-A0CD-2A9ED44D9829}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BDA4CD-D73D-4070-B4D1-1F0DE67027B3}|CapaNegocio\\CapaNegocio.csproj|D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\capanegocio\\cn_recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BDA4CD-D73D-4070-B4D1-1F0DE67027B3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6B333C-A6DA-46A2-A0CD-2A9ED44D9829}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6B333C-A6DA-46A2-A0CD-2A9ED44D9829}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6B333C-A6DA-46A2-A0CD-2A9ED44D9829}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6B333C-A6DA-46A2-A0CD-2A9ED44D9829}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CN_Recursos.cs",
+              "DocumentMoniker": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaNegocio\\CN_Recursos.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Recursos.cs",
+              "ToolTip": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaNegocio\\CN_Recursos.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Recursos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:56:24.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:29:31.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwJgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T20:05:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CN_Usuarios.cs",
+              "DocumentMoniker": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaNegocio\\CN_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuarios.cs",
+              "ToolTip": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaNegocio\\CN_Usuarios.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Usuarios.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwE0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:59:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CD_Usuarios.cs",
+              "DocumentMoniker": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaDatos\\CD_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuarios.cs",
+              "ToolTip": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaDatos\\CD_Usuarios.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuarios.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:11:42.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\programacion\\C#\\Sistema Web Carrito\\SistemaWebMVC\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:44:41.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

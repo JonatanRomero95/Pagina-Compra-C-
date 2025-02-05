@@ -1,0 +1,6 @@
+D:\programacion\C#\Sistema Web Carrito\SistemaWebMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\programacion\C#\Sistema Web Carrito\SistemaWebMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\programacion\C#\Sistema Web Carrito\SistemaWebMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\programacion\C#\Sistema Web Carrito\SistemaWebMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\programacion\C#\Sistema Web Carrito\SistemaWebMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\programacion\C#\Sistema Web Carrito\SistemaWebMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
